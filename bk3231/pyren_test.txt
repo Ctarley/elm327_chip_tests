@@ -1,0 +1,128 @@
+Opening ELM
+v1.0   ATZ                      [OK]
+v1.0   ATE1                     [OK]
+v1.0   ATL0                     [OK]
+v1.0   ATI                      [OK]
+v1.0   AT@1                     [OK]
+v1.0   ATAL                   [FAIL]
+v1.0   ATBD                   [FAIL]
+v1.0   ATBI                   [FAIL]
+v1.0   ATCAF0                 [FAIL]
+v1.0   ATCF 123               [FAIL]
+v1.0   ATCF 12345678          [FAIL]
+v1.0   ATCFC1                 [FAIL]
+v1.0   ATCM 123               [FAIL]
+v1.0   ATCM 12345678          [FAIL]
+v1.0   ATCP 01                [FAIL]
+v1.0   ATCS                   [FAIL]
+v1.0   ATCV 1250              [FAIL]
+v1.0   ATD                      [OK]
+v1.0   ATDP                     [OK]
+v1.0   ATDPN                    [OK]
+v1.0   ATH0                     [OK]
+v1.0   ATI                      [OK]
+v1.0   ATIB 10                [FAIL]
+v1.0   ATIB 96                [FAIL]
+v1.0   ATL1                     [OK]
+v1.0   ATM0                     [OK]
+v1.0   ATMA                   [FAIL]
+v1.0   ATMR 01                [FAIL]
+v1.0   ATMT 01                [FAIL]
+v1.0   ATNL                   [FAIL]
+v1.0   ATPC                     [OK]
+v1.0   ATR1                   [FAIL]
+v1.0   ATRV                     [OK]
+v1.0   ATSH 001122            [FAIL]
+v1.0   ATSH 012               [FAIL]
+v1.0   ATSP A6                [FAIL]
+v1.0   ATSP 6                   [OK]
+v1.0   ATST FF                [FAIL]
+v1.0   ATSW 96                [FAIL]
+v1.0   ATSW 34                [FAIL]
+v1.0   ATTP A6                [FAIL]
+v1.0   ATTP 6                 [FAIL]
+v1.0   ATWM 817AF13E          [FAIL]
+v1.0   ATWS                     [OK]
+v1.1   ATFC SD 300000         [FAIL]
+v1.1   ATFC SH 012            [FAIL]
+v1.1   ATFC SH 00112233       [FAIL]
+v1.1   ATFC SM 1              [FAIL]
+v1.1   ATPP FF OFF            [FAIL]
+v1.1   ATPP FF ON             [FAIL]
+v1.1   ATPPS                  [FAIL]
+v1.2   ATAR                   [FAIL]
+v1.2   ATAT1                  [FAIL]
+v1.2   ATDM1                  [FAIL]
+v1.2   ATIFR H                [FAIL]
+v1.2   ATIFR0                 [FAIL]
+v1.2   ATIIA 01               [FAIL]
+v1.2   ATKW0                  [FAIL]
+v1.2   ATMP 0123              [FAIL]
+v1.2   ATMP 0123 4            [FAIL]
+v1.2   ATMP 012345            [FAIL]
+v1.2   ATMP 012345 6          [FAIL]
+v1.2   ATSR 01                [FAIL]
+v1.3   ATCRA 012              [FAIL]
+v1.3   ATCRA 01234567         [FAIL]
+v1.3   ATD0                   [FAIL]
+v1.3   ATFE                   [FAIL]
+v1.3   ATJE                   [FAIL]
+v1.3   ATJS                   [FAIL]
+v1.3   ATKW                   [FAIL]
+v1.3   ATRA 01                [FAIL]
+v1.3   ATS1                   [FAIL]
+v1.3   ATSP 00                [FAIL]
+v1.3   ATV0                   [FAIL]
+v1.4   ATCEA                  [FAIL]
+v1.4   ATCEA 01               [FAIL]
+v1.4   ATCV 0000              [FAIL]
+v1.4   ATIB 48                [FAIL]
+v1.4   ATIGN                  [FAIL]
+v1.4   ATPB 01 23             [FAIL]
+v1.4   ATRD                   [FAIL]
+v1.4   ATSD 01                [FAIL]
+v1.4   ATSI                   [FAIL]
+v1.4   ATFI                   [FAIL]
+v1.4   ATSS                   [FAIL]
+v1.4   ATTA 12                [FAIL]
+v1.4   ATCSM1                 [FAIL]
+v1.4   ATJHF1                 [FAIL]
+v1.4   ATJTM1                 [FAIL]
+v1.4   ATJTM5                 [FAIL]
+v1.4b  ATCRA                  [FAIL]
+v2.0   ATAMC                  [FAIL]
+v2.0   ATAMT 20               [FAIL]
+v2.1   ATCTM1                 [FAIL]
+v2.1   ATCTM5                 [FAIL]
+****************************************
+*       RESETTING ELM
+****************************************
+* 
+*       ERRORS STATISTIC
+* 
+* error_frame      =  0
+* error_bufferfull =  0
+* error_question   =  81
+* error_nodata     =  0
+* error_timeout    =  0
+* error_rx         =  0
+* error_can        =  0
+*
+*       RESPONSE TIME (Average)
+* 
+* response_time    =  0.00783081786622
+* 
+****************************************
+
+
+
+Uncompatible adapter on ARM core 
+ pyren would not work with it 
+
+
+
+
+
+Result: 16 from 95
+ Max version:v1.0 
+
